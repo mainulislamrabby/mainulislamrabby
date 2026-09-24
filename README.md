@@ -1,4 +1,6 @@
-# Hi 👋, I'm <Md Mainul Islam Rabby>  
+<img src="./MD Mainul Islam Rabby.jpg" alt="Md Mainul Islam Rabby" />
+
+# Hi 👋, I'm Md Mainul Islam Rabby  
 
 # 💫 About Me:
 💻 Focused on Full-Stack Web Development<br>🌱 Currently learning and building with Next.js<br>🛠️ Building projects to strengthen my development skills<br>📚 Continuously learning modern web technologies<br>🎯 Working toward becoming a professional software engineer<br>🌐 Building my personal developer brand and online presence
